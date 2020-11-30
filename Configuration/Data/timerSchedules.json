@@ -1,0 +1,5 @@
+{
+    "TimerSchedules": {
+      "TimerDemo": "0 */5 * * * *"
+    }
+  }
